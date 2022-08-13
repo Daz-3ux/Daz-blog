@@ -27,7 +27,7 @@ module.exports = {
         autoCreateIssue: true,
         clientId: "b26ebedfca4067cd930b",
         clientSecret: "98885df8fd0f1742386d1784adf03285deafdc96",
-        owner: "eryajf",
+        owner: "Daz-3ux",
         repo: "Daz-blog",
       },
     ],
