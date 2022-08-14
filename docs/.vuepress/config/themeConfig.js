@@ -55,7 +55,7 @@ module.exports = {
       {
         iconClass: 'icon-youjian',
         title: '发邮件',
-        link: 'mailto:eryajf@163.com',
+        link: 'mailto:1293821619l@gmail.com',
       },
       {
         iconClass: 'icon-gitee',

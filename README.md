@@ -76,7 +76,7 @@ $ git clone git@github.com:lql95/lql-notes.git
 
 ### 配置评论
 
-模板默认内置了vssue的评论组件，也是基于github的issue作为评论的存储数据。
+模板默认内置了vssue的评论组件，也是基于github的Daz-blog作为评论的存储数据。
 
 只需两步即可完成配置：
 
